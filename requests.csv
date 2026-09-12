@@ -1,0 +1,2 @@
+request_id,user_id,requested_amount,desired_completion_date,allows_partial_payment,request_text
+DEMO-001,USER-001,2500,2026-09-20,True,I need to make a necessary purchase.
